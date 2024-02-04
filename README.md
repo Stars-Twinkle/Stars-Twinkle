@@ -2,7 +2,7 @@
 - 👀 I’m interested in C++
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on None
-- 📫 How to reach me he or him
+- 📫 How to reach me: he or him
 - 😄 Pronouns: fw
 - ⚡ Fun fact: I am a stupid!
 
